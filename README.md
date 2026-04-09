@@ -126,9 +126,6 @@ Run `python3 skills/ppt-master/scripts/image_gen.py --list-backends` to see tier
 
 ---
 
-## Contributing
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to get involved.
 
 ## License
 
@@ -142,43 +139,3 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to get involved.
 
 [GitHub Issues](https://github.com/Lanthanum1/ppt-master/issues) · [@Lanthanum1](https://github.com/Lanthanum1)
 
----
-
-## Star History
-
-If this project helps you, please give it a ⭐!
-
-<a href="https://star-history.com/#Lanthanum1/ppt-master&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lanthanum1/ppt-master&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lanthanum1/ppt-master&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Lanthanum1/ppt-master&type=Date" />
- </picture>
-</a>
-
----
-
-## Supported by DigitalOcean
-
-<p>This project is supported by:</p>
-<p>
-  <a href="https://m.do.co/c/547f129aabe1">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" alt="Powered by DigitalOcean" width="201" />
-  </a>
-</p>
-
----
-
-## Sponsor
-
-If this project saves you time, consider buying me a coffee!
-
-**Alipay / 支付宝**
-
-<img src="docs/assets/alipay-qr.jpg" alt="Alipay QR Code" width="250" />
-
----
-
-Made with ❤️ by Hugo He
-
-[⬆ Back to Top](#ppt-master--ai-generates-natively-editable-pptx-from-any-document)
