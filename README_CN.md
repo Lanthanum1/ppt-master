@@ -1,9 +1,9 @@
 # PPT Master — AI 生成原生可编辑 PPTX，支持任意文档输入
 
-[![Version](https://img.shields.io/badge/version-v2.3.0-blue.svg)](https://github.com/hugohe3/ppt-master/releases)
+[![Version](https://img.shields.io/badge/version-v2.3.0-blue.svg)](https://github.com/Lanthanum1/ppt-master/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/hugohe3/ppt-master.svg)](https://github.com/hugohe3/ppt-master/stargazers)
-[![AtomGit stars](https://atomgit.com/hugohe3/ppt-master/star/badge.svg)](https://atomgit.com/hugohe3/ppt-master)
+[![GitHub stars](https://img.shields.io/github/stars/Lanthanum1/ppt-master.svg)](https://github.com/Lanthanum1/ppt-master/stargazers)
+[![AtomGit stars](https://atomgit.com/Lanthanum1/ppt-master/star/badge.svg)](https://atomgit.com/Lanthanum1/ppt-master)
 
 [English](./README.md) | 中文
 
@@ -16,7 +16,7 @@
 - 10+ 种输出格式：PPT 16:9、小红书、朋友圈、营销海报等
 - 低成本——VS Code Copilot 下最低 **$0.08/份**；非 Opus 模型也能生成不错的结果
 
-**[在线预览 →](https://hugohe3.github.io/ppt-master/)** · [`examples/`](./examples/) — 15 个项目，229 页
+**[在线预览 →](https://Lanthanum1.github.io/ppt-master/)** · [`examples/`](./examples/) — 16 个项目，240 页
 
 ## 效果展示
 
@@ -58,7 +58,7 @@ sudo apt install pandoc          # 可选
 ```
 
 ```bash
-git clone https://github.com/hugohe3/ppt-master.git
+git clone https://github.com/Lanthanum1/ppt-master.git
 cd ppt-master
 pip install -r requirements.txt
 ```
@@ -120,7 +120,7 @@ GEMINI_MODEL=gemini-3.1-flash-image-preview
 | 📖 | [SKILL.md](./skills/ppt-master/SKILL.md) | 核心流程与规则 |
 | 📐 | [画布格式](./skills/ppt-master/references/canvas-formats.md) | PPT 16:9、小红书、朋友圈等 10+ 种格式 |
 | 🛠️ | [脚本与工具](./skills/ppt-master/scripts/README.md) | 所有脚本和命令 |
-| 💼 | [示例](./examples/README.md) | 15 个项目，229 页 |
+| 💼 | [示例](./examples/README.md) | 16 个项目，240 页 |
 | 🏗️ | [技术路线](./docs/zh/technical-design.md) | 架构、设计哲学、为什么选 SVG |
 | ❓ | [常见问题](./docs/zh/faq.md) | 费用、编辑、自定义模板 |
 
@@ -140,7 +140,7 @@ GEMINI_MODEL=gemini-3.1-flash-image-preview
 
 ## 联系
 
-[GitHub Issues](https://github.com/hugohe3/ppt-master/issues) · [@hugohe3](https://github.com/hugohe3)
+[GitHub Issues](https://github.com/Lanthanum1/ppt-master/issues) · [@Lanthanum1](https://github.com/Lanthanum1)
 
 ---
 
@@ -148,11 +148,11 @@ GEMINI_MODEL=gemini-3.1-flash-image-preview
 
 如果这个项目对你有帮助，请给一个 ⭐！
 
-<a href="https://star-history.com/#hugohe3/ppt-master&Date">
+<a href="https://star-history.com/#Lanthanum1/ppt-master&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hugohe3/ppt-master&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hugohe3/ppt-master&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hugohe3/ppt-master&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lanthanum1/ppt-master&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lanthanum1/ppt-master&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Lanthanum1/ppt-master&type=Date" />
  </picture>
 </a>
 

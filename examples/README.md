@@ -1,15 +1,15 @@
 # PPT Master Example Projects
 
-> This directory contains **15 curated example projects** covering consulting style, general-purpose style, creative style, and other design paradigms, totaling **229 SVG presentation pages**.
+> This directory contains **16 curated example projects** covering consulting style, general-purpose style, creative style, and other design paradigms, totaling **240 SVG presentation pages**.
 
-**[Preview all example projects online](https://hugohe3.github.io/ppt-master/)**
+**[Preview all example projects online](https://Lanthanum1.github.io/ppt-master/)**
 
 ## Overview
 
 | Category | Projects | Total Pages | Highlights |
 |----------|----------|-------------|------------|
 | Consulting Style | 8 | 142 pages | Data-driven, structured, professional whitespace |
-| General-Purpose | 3 | 32 pages | Flexible layouts, diverse themes |
+| General-Purpose | 4 | 43 pages | Flexible layouts, diverse themes |
 | Creative Style | 4 | 55 pages | Unique visual language, cultural aesthetics |
 
 ---
@@ -188,6 +188,23 @@
 
 ---
 
+### ppt169_通用灵活+学术_华中师范大学论文格式标准
+
+> **11 pages** - Graduate thesis format standard
+
+| Property | Details |
+|----------|---------|
+| **Canvas Format** | PPT 16:9 (1280x720) |
+| **Design Style** | General-purpose flexible + academic |
+| **Color Scheme** | CCNU Green #1B6B3A + Gold #D4A017 |
+| **Target Audience** | CCNU master's and doctoral students |
+
+**Key Features**: Covers the complete CCNU graduate thesis format requirements (GB/T 7713-1987, GB/T 7714-2005), including thesis structure, front matter, abstract rules, heading hierarchy, figures/tables/formulas, citation format, appendix/acknowledgements, and page layout — with side-by-side master vs. doctoral comparisons and a pre-submission checklist.
+
+[View Project](./ppt169_通用灵活+学术_华中师范大学论文格式标准/) | [Design Spec](./ppt169_通用灵活+学术_华中师范大学论文格式标准/design_spec.md)
+
+---
+
 ### ppt169_通过灵活+代码_三大AI编程神器横向对比
 
 > **11 pages** - Technical review
@@ -352,4 +369,4 @@ We welcome your project contributions! Please ensure:
 
 ---
 
-*Last updated: 2025-12-13*
+*Last updated: 2026-04-09*

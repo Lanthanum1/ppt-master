@@ -1,9 +1,9 @@
 # PPT Master — AI generates natively editable PPTX from any document
 
-[![Version](https://img.shields.io/badge/version-v2.3.0-blue.svg)](https://github.com/hugohe3/ppt-master/releases)
+[![Version](https://img.shields.io/badge/version-v2.3.0-blue.svg)](https://github.com/Lanthanum1/ppt-master/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/hugohe3/ppt-master.svg)](https://github.com/hugohe3/ppt-master/stargazers)
-[![AtomGit stars](https://atomgit.com/hugohe3/ppt-master/star/badge.svg)](https://atomgit.com/hugohe3/ppt-master)
+[![GitHub stars](https://img.shields.io/github/stars/Lanthanum1/ppt-master.svg)](https://github.com/Lanthanum1/ppt-master/stargazers)
+[![AtomGit stars](https://atomgit.com/Lanthanum1/ppt-master/star/badge.svg)](https://atomgit.com/Lanthanum1/ppt-master)
 
 English | [中文](./README_CN.md)
 
@@ -16,7 +16,7 @@ Drop in a PDF, DOCX, URL, or Markdown — get back a **natively editable PowerPo
 - 10+ output formats: PPT 16:9, social media cards, marketing posters, and more
 - Low cost — as little as **$0.08 per presentation** with VS Code Copilot; even non-Opus models produce decent results
 
-**[See live examples →](https://hugohe3.github.io/ppt-master/)** · [`examples/`](./examples/) — 15 projects, 229 pages
+**[See live examples →](https://Lanthanum1.github.io/ppt-master/)** · [`examples/`](./examples/) — 16 projects, 240 pages
 
 ## Gallery
 
@@ -58,7 +58,7 @@ sudo apt install pandoc          # optional
 ```
 
 ```bash
-git clone https://github.com/hugohe3/ppt-master.git
+git clone https://github.com/Lanthanum1/ppt-master.git
 cd ppt-master
 pip install -r requirements.txt
 ```
@@ -120,7 +120,7 @@ Run `python3 skills/ppt-master/scripts/image_gen.py --list-backends` to see tier
 | 📖 | [SKILL.md](./skills/ppt-master/SKILL.md) | Core workflow and rules |
 | 📐 | [Canvas Formats](./skills/ppt-master/references/canvas-formats.md) | PPT 16:9, Xiaohongshu, WeChat, and 10+ formats |
 | 🛠️ | [Scripts & Tools](./skills/ppt-master/scripts/README.md) | All scripts and commands |
-| 💼 | [Examples](./examples/README.md) | 15 projects, 229 pages |
+| 💼 | [Examples](./examples/README.md) | 16 projects, 240 pages |
 | 🏗️ | [Technical Design](./docs/technical-design.md) | Architecture, design philosophy, why SVG |
 | ❓ | [FAQ](./docs/faq.md) | Cost, editing, custom templates |
 
@@ -140,7 +140,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to get involved.
 
 ## Contact
 
-[GitHub Issues](https://github.com/hugohe3/ppt-master/issues) · [@hugohe3](https://github.com/hugohe3)
+[GitHub Issues](https://github.com/Lanthanum1/ppt-master/issues) · [@Lanthanum1](https://github.com/Lanthanum1)
 
 ---
 
@@ -148,11 +148,11 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to get involved.
 
 If this project helps you, please give it a ⭐!
 
-<a href="https://star-history.com/#hugohe3/ppt-master&Date">
+<a href="https://star-history.com/#Lanthanum1/ppt-master&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hugohe3/ppt-master&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hugohe3/ppt-master&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hugohe3/ppt-master&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lanthanum1/ppt-master&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lanthanum1/ppt-master&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Lanthanum1/ppt-master&type=Date" />
  </picture>
 </a>
 
