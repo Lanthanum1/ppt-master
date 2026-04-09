@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+    <rect width="1280" height="720" fill="#F7F9FC" />
+    <rect x="0" y="0" width="1280" height="4" fill="#1B6B3A" />
+
+    <!-- 标题 -->
+    <text x="640" y="54" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="32" font-weight="bold" fill="#1B6B3A">排版格式要点</text>
+    <text x="640" y="80" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" fill="#718096">页面设置 · 字体字号 · 行距页码 · 硕士 vs 博士对比</text>
+
+    <!-- 对比表格 -->
+    <!-- 表头 -->
+    <rect x="60" y="105" width="1160" height="46" rx="8" fill="#1B6B3A" />
+    <text x="200" y="134" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">参数项目</text>
+    <rect x="430" y="110" width="1" height="36" fill="#FFFFFF" fill-opacity="0.3" />
+    <text x="620" y="134" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">硕士学位论文</text>
+    <rect x="830" y="110" width="1" height="36" fill="#FFFFFF" fill-opacity="0.3" />
+    <text x="1040" y="134" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">博士学位论文</text>
+
+    <!-- 行数据 -->
+    <!-- 奇行背景 #F8FAFB, 偶行 #FFFFFF -->
+    <!-- 行高 44px, 起始 y=151 -->
+
+    <!-- 纸张 -->
+    <rect x="60" y="151" width="1160" height="44" fill="#F8FAFB" />
+    <rect x="60" y="151" width="1160" height="1" fill="#E2E8F0" />
+    <text x="200" y="179" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">纸张</text>
+    <text x="620" y="179" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">A4（210×297mm）</text>
+    <text x="1040" y="179" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">A4（210×297mm）</text>
+
+    <!-- 上边距 -->
+    <rect x="60" y="195" width="1160" height="44" fill="#FFFFFF" />
+    <rect x="60" y="195" width="1160" height="1" fill="#E2E8F0" />
+    <text x="200" y="223" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">上边距</text>
+    <text x="620" y="223" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">3.9 cm</text>
+    <text x="1040" y="223" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">3.9 cm</text>
+
+    <!-- 下边距 -->
+    <rect x="60" y="239" width="1160" height="44" fill="#F8FAFB" />
+    <rect x="60" y="239" width="1160" height="1" fill="#E2E8F0" />
+    <text x="200" y="267" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">下边距</text>
+    <text x="620" y="267" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">3.5 cm</text>
+    <text x="1040" y="267" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">3.5 cm</text>
+
+    <!-- 左边距 -->
+    <rect x="60" y="283" width="1160" height="44" fill="#FFFFFF" />
+    <rect x="60" y="283" width="1160" height="1" fill="#E2E8F0" />
+    <text x="200" y="311" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">左边距</text>
+    <text x="620" y="311" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">2.8 cm</text>
+    <text x="1040" y="311" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#D4A017">2.9 cm</text>
+
+    <!-- 右边距 -->
+    <rect x="60" y="327" width="1160" height="44" fill="#F8FAFB" />
+    <rect x="60" y="327" width="1160" height="1" fill="#E2E8F0" />
+    <text x="200" y="355" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">右边距</text>
+    <text x="620" y="355" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#D4A017">3.0 cm</text>
+    <text x="1040" y="355" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">2.9 cm</text>
+
+    <!-- 正文字体 -->
+    <rect x="60" y="371" width="1160" height="44" fill="#FFFFFF" />
+    <rect x="60" y="371" width="1160" height="1" fill="#E2E8F0" />
+    <text x="200" y="399" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">正文字体</text>
+    <text x="620" y="399" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#1B6B3A">小四号宋体</text>
+    <text x="1040" y="399" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#1B6B3A">五号宋体</text>
+
+    <!-- 行距 -->
+    <rect x="60" y="415" width="1160" height="44" fill="#F8FAFB" />
+    <rect x="60" y="415" width="1160" height="1" fill="#E2E8F0" />
+    <text x="200" y="443" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">行距</text>
+    <text x="620" y="443" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#D4A017">多倍行距 1.25</text>
+    <text x="1040" y="443" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#D4A017">固定值 19 磅</text>
+
+    <!-- 页码位置 -->
+    <rect x="60" y="459" width="1160" height="44" fill="#FFFFFF" />
+    <rect x="60" y="459" width="1160" height="1" fill="#E2E8F0" />
+    <text x="200" y="487" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">页码位置</text>
+    <text x="620" y="487" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#D4A017">居中</text>
+    <text x="1040" y="487" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#D4A017">外侧（奇页右 / 偶页左）</text>
+
+    <!-- 印刷方式 -->
+    <rect x="60" y="503" width="1160" height="44" fill="#F8FAFB" />
+    <rect x="60" y="503" width="1160" height="1" fill="#E2E8F0" />
+    <text x="200" y="531" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">印刷方式</text>
+    <text x="620" y="531" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">可单面印刷</text>
+    <text x="1040" y="531" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#E53E3E">须双面印刷</text>
+
+    <!-- 表格底框 -->
+    <rect x="60" y="547" width="1160" height="1" fill="#E2E8F0" />
+
+    <!-- 竖分隔线 -->
+    <rect x="430" y="151" width="1" height="397" fill="#E2E8F0" />
+    <rect x="830" y="151" width="1" height="397" fill="#E2E8F0" />
+
+    <!-- 说明 -->
+    <rect x="60" y="558" width="1160" height="58" rx="8" fill="#EBF5EF" />
+    <text x="90" y="582" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#1B6B3A">补充说明：</text>
+    <text x="220" y="582" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">页眉 1.5cm · 页脚 2.7cm</text>
+    <text x="530" y="582" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">封面用书写纸，内文用优质A4</text>
+    <text x="90" y="604" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">书脊：依次印年份、论文题目、作者姓名（横竖排均可）</text>
+
+    <!-- 底部 -->
+    <rect x="60" y="660" width="1160" height="1" fill="#E2E8F0" />
+    <text x="100" y="678" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">华中师范大学研究生学位论文撰写格式标准</text>
+    <text x="640" y="678" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#A0AEC0">10 / 11</text>
+</svg>

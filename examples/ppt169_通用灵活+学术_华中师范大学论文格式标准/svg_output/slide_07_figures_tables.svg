@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+    <rect width="1280" height="720" fill="#F7F9FC" />
+    <rect x="0" y="0" width="1280" height="4" fill="#1B6B3A" />
+
+    <!-- 标题 -->
+    <text x="640" y="54" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="32" font-weight="bold" fill="#1B6B3A">图表公式规范</text>
+    <text x="640" y="80" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" fill="#718096">图（Figure）· 表（Table）· 公式（Formula）编号与格式</text>
+
+    <!-- 图 Figure 列 -->
+    <rect x="60" y="105" width="360" height="420" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+    <rect x="60" y="105" width="360" height="8" rx="5" fill="#1B6B3A" />
+    <text x="240" y="143" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="bold" fill="#1B6B3A">图（Figure）</text>
+
+    <!-- 示意图 -->
+    <rect x="100" y="160" width="280" height="120" rx="6" fill="#F0F4F8" stroke="#CBD5E0" stroke-width="1" />
+    <rect x="130" y="175" width="220" height="80" rx="4" fill="#E2ECF5" />
+    <text x="240" y="220" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#718096">图片内容区域</text>
+    <text x="240" y="292" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#2D3748">图 2.1  研究框架示意图</text>
+    <rect x="100" y="302" width="280" height="2" fill="#E2E8F0" />
+
+    <text x="90" y="330" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">编号规则</text>
+    <text x="90" y="354" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 按章节编号：图 2.1、图 3.5</text>
+    <text x="90" y="376" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 附录中编号：图 A.1</text>
+
+    <text x="90" y="410" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">图题位置</text>
+    <text x="90" y="434" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#E53E3E">· 置于图的下方（居中）</text>
+    <text x="90" y="456" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 编号 + 题名连排</text>
+
+    <text x="90" y="490" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">随文排列</text>
+    <text x="90" y="514" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 图紧随引用文字</text>
+
+    <!-- 表 Table 列 -->
+    <rect x="460" y="105" width="360" height="420" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+    <rect x="460" y="105" width="360" height="8" rx="5" fill="#2E8A50" />
+    <text x="640" y="143" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="bold" fill="#2E8A50">表（Table）</text>
+
+    <!-- 三线表示意 -->
+    <text x="640" y="185" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#2D3748">表 2.1  样本统计描述</text>
+    <rect x="490" y="196" width="300" height="2" fill="#2D3748" />
+    <rect x="490" y="200" width="300" height="1" fill="#2D3748" />
+    <text x="530" y="222" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">变量</text>
+    <text x="680" y="222" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">均值</text>
+    <text x="730" y="222" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">标准差</text>
+    <rect x="490" y="230" width="300" height="1" fill="#4A5568" />
+    <text x="530" y="250" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#718096">年龄</text>
+    <text x="680" y="250" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#718096">26.3</text>
+    <text x="730" y="250" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#718096">3.5</text>
+    <text x="530" y="270" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#718096">成绩</text>
+    <text x="680" y="270" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#718096">82.7</text>
+    <text x="730" y="270" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#718096">11.2</text>
+    <rect x="490" y="278" width="300" height="2" fill="#2D3748" />
+    <text x="640" y="300" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">三线表示意</text>
+
+    <text x="490" y="328" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">编号规则</text>
+    <text x="490" y="352" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 按章节编号：表 2.1、表 4.3</text>
+    <text x="490" y="374" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 附录中编号：表 A.1</text>
+
+    <text x="490" y="408" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">表题位置</text>
+    <text x="490" y="432" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#E53E3E">· 置于表的上方（居中）</text>
+    <text x="490" y="454" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 续表需重复表头及标注"续表"</text>
+
+    <text x="490" y="488" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">表格样式</text>
+    <text x="490" y="512" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 推荐国际通用三线表</text>
+
+    <!-- 公式列 -->
+    <rect x="860" y="105" width="360" height="420" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+    <rect x="860" y="105" width="360" height="8" rx="5" fill="#D4A017" />
+    <text x="1040" y="143" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="bold" fill="#D4A017">公式（Formula）</text>
+
+    <!-- 公式示意 -->
+    <rect x="890" y="160" width="300" height="70" rx="6" fill="#FEF9E8" stroke="#FED7A0" stroke-width="1" />
+    <text x="1000" y="200" text-anchor="middle" font-family="Times New Roman, serif" font-size="20" font-style="italic" fill="#2D3748">E = mc²</text>
+    <text x="1155" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#D4A017">(1.3)</text>
+    <rect x="890" y="238" width="300" height="2" fill="#E2E8F0" />
+
+    <text x="890" y="268" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">排列规则</text>
+    <text x="890" y="292" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 另起一行居中横排</text>
+    <text x="890" y="314" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 不占正文行间距</text>
+
+    <text x="890" y="348" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">编号规则</text>
+    <text x="890" y="372" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 分章节编号：公式 1.3、公式 5.7</text>
+    <text x="890" y="394" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 编号在行末右对齐</text>
+    <text x="890" y="416" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 序号标注于最右侧圆括号内</text>
+
+    <text x="890" y="450" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">转行规则</text>
+    <text x="890" y="474" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 在运算符（+ - × ÷）处换行</text>
+    <text x="890" y="496" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 运算符排于下行行首</text>
+
+    <!-- 总则 -->
+    <rect x="60" y="550" width="1160" height="60" rx="8" fill="#EBF5EF" />
+    <text x="90" y="575" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#1B6B3A">总则：</text>
+    <text x="185" y="575" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">图 · 表 · 公式均须在正文中首次出现时进行引用说明</text>
+    <text x="90" y="598" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">图题/表题一般用中英文对照，字号同正文或小于正文一级</text>
+
+    <!-- 底部 -->
+    <rect x="60" y="650" width="1160" height="1" fill="#E2E8F0" />
+    <text x="100" y="670" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">华中师范大学研究生学位论文撰写格式标准</text>
+    <text x="640" y="670" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#A0AEC0">7 / 11</text>
+</svg>

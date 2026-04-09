@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+    <defs>
+        <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#F7F9FC" />
+            <stop offset="100%" style="stop-color:#EDF2F7" />
+        </linearGradient>
+    </defs>
+
+    <rect width="1280" height="720" fill="url(#bgGradient)" />
+    <rect x="0" y="0" width="1280" height="4" fill="#1B6B3A" />
+
+    <!-- 页面标题 -->
+    <text x="640" y="70" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="36" font-weight="bold" fill="#1B6B3A">目 录</text>
+    <path fill="#D4A017" d="M581.5,85 H698.5 A1.5,1.5 0 0 1 700,86.5 V86.5 A1.5,1.5 0 0 1 698.5,88 H581.5 A1.5,1.5 0 0 1 580,86.5 V86.5 A1.5,1.5 0 0 1 581.5,85 Z" />
+
+    <!-- 左栏 01 -->
+    <g transform="translate(80, 120)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H510 A8,8 0 0 1 518,8 V62 A8,8 0 0 1 510,70 H8 A8,8 0 0 1 0,62 V8 A8,8 0 0 1 8,0 Z" />
+        <circle cx="40" cy="35" r="20" fill="#1B6B3A" />
+        <text x="40" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">01</text>
+        <text x="80" y="30" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">论文基本结构</text>
+        <text x="80" y="52" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#718096">十二大组成部分概览</text>
+    </g>
+
+    <!-- 左栏 02 -->
+    <g transform="translate(80, 205)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H510 A8,8 0 0 1 518,8 V62 A8,8 0 0 1 510,70 H8 A8,8 0 0 1 0,62 V8 A8,8 0 0 1 8,0 Z" />
+        <circle cx="40" cy="35" r="20" fill="#1B6B3A" />
+        <text x="40" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">02</text>
+        <text x="80" y="30" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">前置部分要求</text>
+        <text x="80" y="52" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#718096">封面、扉页、声明、摘要、目录</text>
+    </g>
+
+    <!-- 左栏 03 -->
+    <g transform="translate(80, 290)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H510 A8,8 0 0 1 518,8 V62 A8,8 0 0 1 510,70 H8 A8,8 0 0 1 0,62 V8 A8,8 0 0 1 8,0 Z" />
+        <circle cx="40" cy="35" r="20" fill="#1B6B3A" />
+        <text x="40" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">03</text>
+        <text x="80" y="30" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">摘要与关键词规范</text>
+        <text x="80" y="52" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#718096">中英文摘要字体字号要求</text>
+    </g>
+
+    <!-- 左栏 04 -->
+    <g transform="translate(80, 375)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H510 A8,8 0 0 1 518,8 V62 A8,8 0 0 1 510,70 H8 A8,8 0 0 1 0,62 V8 A8,8 0 0 1 8,0 Z" />
+        <circle cx="40" cy="35" r="20" fill="#1B6B3A" />
+        <text x="40" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">04</text>
+        <text x="80" y="30" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">正文撰写规范</text>
+        <text x="80" y="52" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#718096">标题层级与字体格式</text>
+    </g>
+
+    <!-- 左栏 05 -->
+    <g transform="translate(80, 460)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H510 A8,8 0 0 1 518,8 V62 A8,8 0 0 1 510,70 H8 A8,8 0 0 1 0,62 V8 A8,8 0 0 1 8,0 Z" />
+        <circle cx="40" cy="35" r="20" fill="#2E8A50" />
+        <text x="40" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">05</text>
+        <text x="80" y="30" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">图表公式格式</text>
+        <text x="80" y="52" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#718096">图题、表题、公式编号规则</text>
+    </g>
+
+    <!-- 右栏 06 -->
+    <g transform="translate(680, 120)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H510 A8,8 0 0 1 518,8 V62 A8,8 0 0 1 510,70 H8 A8,8 0 0 1 0,62 V8 A8,8 0 0 1 8,0 Z" />
+        <circle cx="40" cy="35" r="20" fill="#2E8A50" />
+        <text x="40" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">06</text>
+        <text x="80" y="30" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">参考文献格式</text>
+        <text x="80" y="52" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#718096">顺序编码制著录规范</text>
+    </g>
+
+    <!-- 右栏 07 -->
+    <g transform="translate(680, 205)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H510 A8,8 0 0 1 518,8 V62 A8,8 0 0 1 510,70 H8 A8,8 0 0 1 0,62 V8 A8,8 0 0 1 8,0 Z" />
+        <circle cx="40" cy="35" r="20" fill="#2E8A50" />
+        <text x="40" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">07</text>
+        <text x="80" y="30" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">附录与致谢</text>
+        <text x="80" y="52" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#718096">附录内容与致谢撰写规范</text>
+    </g>
+
+    <!-- 右栏 08 -->
+    <g transform="translate(680, 290)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H510 A8,8 0 0 1 518,8 V62 A8,8 0 0 1 510,70 H8 A8,8 0 0 1 0,62 V8 A8,8 0 0 1 8,0 Z" />
+        <circle cx="40" cy="35" r="20" fill="#2E8A50" />
+        <text x="40" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">08</text>
+        <text x="80" y="30" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">排版格式要点</text>
+        <text x="80" y="52" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#718096">页面设置与排版参数对比</text>
+    </g>
+
+    <!-- 右栏 09 -->
+    <g transform="translate(680, 375)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H510 A8,8 0 0 1 518,8 V62 A8,8 0 0 1 510,70 H8 A8,8 0 0 1 0,62 V8 A8,8 0 0 1 8,0 Z" />
+        <circle cx="40" cy="35" r="20" fill="#2E8A50" />
+        <text x="40" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">09</text>
+        <text x="80" y="30" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">格式检查清单</text>
+        <text x="80" y="52" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#718096">论文提交前自检要点</text>
+    </g>
+
+    <!-- 右栏 提示 -->
+    <g transform="translate(680, 460)">
+        <path fill="#1B6B3A" opacity="0.1" stroke="#1B6B3A" stroke-width="1" stroke-dasharray="4,2" d="M8,0 H510 A8,8 0 0 1 518,8 V62 A8,8 0 0 1 510,70 H8 A8,8 0 0 1 0,62 V8 A8,8 0 0 1 8,0 Z" />
+        <text x="259" y="30" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" fill="#1B6B3A">提示</text>
+        <text x="259" y="52" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">建议结合学院最新通知使用</text>
+    </g>
+
+    <!-- 底部分隔线 -->
+    <rect x="60" y="600" width="1160" height="1" fill="#E2E8F0" />
+
+    <!-- 底部页脚 -->
+    <text x="100" y="680" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">华中师范大学研究生学位论文撰写格式标准</text>
+
+    <!-- 页码 -->
+    <text x="640" y="695" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#A0AEC0">2 / 11</text>
+</svg>

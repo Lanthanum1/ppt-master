@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+    <rect width="1280" height="720" fill="#F7F9FC" />
+    <rect x="0" y="0" width="1280" height="4" fill="#1B6B3A" />
+
+    
+    <text x="640" y="54" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="32" font-weight="bold" fill="#1B6B3A">参考文献格式</text>
+    <text x="640" y="80" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" fill="#718096">顺序编码制 · 方括号上标引用 · GB/T 7714-2005</text>
+
+    
+
+    
+    <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" d="M70,105 H610 A10,10 0 0 1 620,115 V245 A10,10 0 0 1 610,255 H70 A10,10 0 0 1 60,245 V115 A10,10 0 0 1 70,105 Z" />
+    <path fill="#1B6B3A" d="M65,105 H615 A5,4 0 0 1 620,109 V109 A5,4 0 0 1 615,113 H65 A5,4 0 0 1 60,109 V109 A5,4 0 0 1 65,105 Z" />
+    <text x="90" y="140" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#1B6B3A">标注方式</text>
+    <text x="90" y="168" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">· 顺序编码制：按正文引用先后顺序连续编码</text>
+    <text x="90" y="192" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">· 引用序号以上角标形式出现：如</text>
+    <text x="518" y="185" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1B6B3A">[1][2]</text>
+    <text x="90" y="238" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#A0AEC0">示例正文：研究表明学生参与度与成绩呈正相关[3]，并对长期发展有影响[4,5]。</text>
+
+    
+    <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" d="M670,105 H1210 A10,10 0 0 1 1220,115 V245 A10,10 0 0 1 1210,255 H670 A10,10 0 0 1 660,245 V115 A10,10 0 0 1 670,105 Z" />
+    <path fill="#2E8A50" d="M665,105 H1215 A5,4 0 0 1 1220,109 V109 A5,4 0 0 1 1215,113 H665 A5,4 0 0 1 660,109 V109 A5,4 0 0 1 665,105 Z" />
+    <text x="690" y="140" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2E8A50">作者著录规则</text>
+    <text x="690" y="168" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">· 不超过三位：全部列出</text>
+    <text x="690" y="192" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">· 超过三位：列前三位</text>
+    <text x="960" y="192" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#D4A017">中文加"等"</text>
+    <text x="1085" y="192" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#D4A017">英文加"et al"</text>
+    <text x="690" y="216" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#A0AEC0">示例：张三, 李四, 王五等. / Smith J, Brown K, Lee M et al.</text>
+
+    
+    <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" d="M70,275 H610 A10,10 0 0 1 620,285 V485 A10,10 0 0 1 610,495 H70 A10,10 0 0 1 60,485 V285 A10,10 0 0 1 70,275 Z" />
+    <path fill="#D4A017" d="M65,275 H615 A5,4 0 0 1 620,279 V279 A5,4 0 0 1 615,283 H65 A5,4 0 0 1 60,279 V279 A5,4 0 0 1 65,275 Z" />
+    <text x="90" y="310" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#D4A017">文献类型代码</text>
+
+    
+    <path fill="#1B6B3A" d="M96,325 H194 A6,6 0 0 1 200,331 V351 A6,6 0 0 1 194,357 H96 A6,6 0 0 1 90,351 V331 A6,6 0 0 1 96,325 Z" />
+    <text x="145" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF">[M] 专著</text>
+    <path fill="#2E8A50" d="M221,325 H319 A6,6 0 0 1 325,331 V351 A6,6 0 0 1 319,357 H221 A6,6 0 0 1 215,351 V331 A6,6 0 0 1 221,325 Z" />
+    <text x="270" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF">[J] 期刊</text>
+    <path fill="#1B6B3A" d="M346,325 H444 A6,6 0 0 1 450,331 V351 A6,6 0 0 1 444,357 H346 A6,6 0 0 1 340,351 V331 A6,6 0 0 1 346,325 Z" />
+    <text x="395" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF">[D] 学位论文</text>
+    <path fill="#718096" d="M471,325 H569 A6,6 0 0 1 575,331 V351 A6,6 0 0 1 569,357 H471 A6,6 0 0 1 465,351 V331 A6,6 0 0 1 471,325 Z" />
+    <text x="520" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF">[C] 会议录</text>
+
+    <path fill="#718096" d="M96,368 H194 A6,6 0 0 1 200,374 V394 A6,6 0 0 1 194,400 H96 A6,6 0 0 1 90,394 V374 A6,6 0 0 1 96,368 Z" />
+    <text x="145" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF">[G] 汇编</text>
+    <path fill="#718096" d="M221,368 H319 A6,6 0 0 1 325,374 V394 A6,6 0 0 1 319,400 H221 A6,6 0 0 1 215,394 V374 A6,6 0 0 1 221,368 Z" />
+    <text x="270" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF">[N] 报纸</text>
+    <path fill="#718096" d="M346,368 H444 A6,6 0 0 1 450,374 V394 A6,6 0 0 1 444,400 H346 A6,6 0 0 1 340,394 V374 A6,6 0 0 1 346,368 Z" />
+    <text x="395" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF">[R] 报告</text>
+    <path fill="#D4A017" d="M471,368 H569 A6,6 0 0 1 575,374 V394 A6,6 0 0 1 569,400 H471 A6,6 0 0 1 465,394 V374 A6,6 0 0 1 471,368 Z" />
+    <text x="520" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF">[DB/OL] 电子</text>
+
+    <text x="90" y="430" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">另有：[S] 标准  [P] 专利  [A] 论文集中析出文献</text>
+    <text x="90" y="454" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#A0AEC0">电子文献加载体类型标识，如 [J/OL] [DB/OL] [EB/OL]</text>
+    <text x="90" y="476" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#A0AEC0">"参考文献"标题：三号黑体加粗居中，另起一页</text>
+
+    
+    <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" d="M670,275 H1210 A10,10 0 0 1 1220,285 V485 A10,10 0 0 1 1210,495 H670 A10,10 0 0 1 660,485 V285 A10,10 0 0 1 670,275 Z" />
+    <path fill="#1B6B3A" d="M665,275 H1215 A5,4 0 0 1 1220,279 V279 A5,4 0 0 1 1215,283 H665 A5,4 0 0 1 660,279 V279 A5,4 0 0 1 665,275 Z" />
+    <text x="690" y="310" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#1B6B3A">著录格式示例</text>
+
+    <text x="690" y="340" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#2D3748">专著 [M]</text>
+    <text x="690" y="360" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">[1] 张三. 书名[M]. 北京: 出版社, 2020: 120.</text>
+
+    <rect x="660" y="370" width="560" height="1" fill="#E2E8F0" />
+
+    <text x="690" y="392" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#2D3748">期刊 [J]</text>
+    <text x="690" y="412" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">[2] 李四. 文章标题[J]. 期刊名, 2021, 15(3): 45-67.</text>
+
+    <rect x="660" y="422" width="560" height="1" fill="#E2E8F0" />
+
+    <text x="690" y="444" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#2D3748">学位论文 [D]</text>
+    <text x="690" y="464" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">[3] 王五. 论文题目[D]. 武汉: 华中师范大学, 2022.</text>
+
+    <rect x="660" y="474" width="560" height="1" fill="#E2E8F0" />
+
+    <text x="690" y="480" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#A0AEC0">英文文献格式相同，作者姓后名前，逗号分隔</text>
+
+    
+    <path fill="#EBF5EF" d="M68,515 H1212 A8,8 0 0 1 1220,523 V567 A8,8 0 0 1 1212,575 H68 A8,8 0 0 1 60,567 V523 A8,8 0 0 1 68,515 Z" />
+    <text x="90" y="540" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#1B6B3A">数量建议：</text>
+    <text x="220" y="540" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">博士 ≥80 篇（外文 ≥1/3）</text>
+    <text x="600" y="540" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">硕士 ≥20 篇（外文 ≥1/3，视专业而定）</text>
+    <text x="90" y="564" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">文献字体：中文小四宋体（硕）/ 五号宋体（博）；英文对应 Times New Roman</text>
+
+    
+    <rect x="60" y="620" width="1160" height="1" fill="#E2E8F0" />
+    <text x="100" y="640" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">华中师范大学研究生学位论文撰写格式标准</text>
+    <text x="640" y="640" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#A0AEC0">8 / 11</text>
+</svg>

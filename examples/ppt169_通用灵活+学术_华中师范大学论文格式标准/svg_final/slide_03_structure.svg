@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+    <rect width="1280" height="720" fill="#F7F9FC" />
+    <rect x="0" y="0" width="1280" height="4" fill="#1B6B3A" />
+
+    
+    <text x="640" y="58" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="32" font-weight="bold" fill="#1B6B3A">论文基本结构概览</text>
+    <text x="640" y="84" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" fill="#718096">华中师范大学研究生学位论文 · 十二大组成部分</text>
+
+    
+
+    
+    <g transform="translate(60, 115)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H212 A8,8 0 0 1 220,8 V122 A8,8 0 0 1 212,130 H8 A8,8 0 0 1 0,122 V8 A8,8 0 0 1 8,0 Z" />
+        <path fill="#1B6B3A" d="M3,0 H217 A3,3 0 0 1 220,3 V3 A3,3 0 0 1 217,6 H3 A3,3 0 0 1 0,3 V3 A3,3 0 0 1 3,0 Z" />
+        <circle cx="30" cy="45" r="18" fill="#1B6B3A" />
+        <text x="30" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">01</text>
+        <text x="60" y="40" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">封面</text>
+        <text x="14" y="75" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">学校、题目、作者</text>
+        <text x="14" y="95" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">导师、日期、密级</text>
+        <text x="14" y="118" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">单面印刷</text>
+    </g>
+
+    
+    <g transform="translate(300, 115)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H212 A8,8 0 0 1 220,8 V122 A8,8 0 0 1 212,130 H8 A8,8 0 0 1 0,122 V8 A8,8 0 0 1 8,0 Z" />
+        <path fill="#1B6B3A" d="M3,0 H217 A3,3 0 0 1 220,3 V3 A3,3 0 0 1 217,6 H3 A3,3 0 0 1 0,3 V3 A3,3 0 0 1 3,0 Z" />
+        <circle cx="30" cy="45" r="18" fill="#1B6B3A" />
+        <text x="30" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">02</text>
+        <text x="60" y="40" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">中英文扉页</text>
+        <text x="14" y="75" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">中文版题名页</text>
+        <text x="14" y="95" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">英文版题名页</text>
+        <text x="14" y="118" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">双面印刷</text>
+    </g>
+
+    
+    <g transform="translate(540, 115)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H212 A8,8 0 0 1 220,8 V122 A8,8 0 0 1 212,130 H8 A8,8 0 0 1 0,122 V8 A8,8 0 0 1 8,0 Z" />
+        <path fill="#D4A017" d="M3,0 H217 A3,3 0 0 1 220,3 V3 A3,3 0 0 1 217,6 H3 A3,3 0 0 1 0,3 V3 A3,3 0 0 1 3,0 Z" />
+        <circle cx="30" cy="45" r="18" fill="#D4A017" />
+        <text x="30" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">03</text>
+        <text x="60" y="40" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">原创性声明</text>
+        <text x="14" y="75" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">原创性声明</text>
+        <text x="14" y="95" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">使用授权说明</text>
+        <text x="14" y="118" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#E53E3E">需亲笔签名</text>
+    </g>
+
+    
+    <g transform="translate(780, 115)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H212 A8,8 0 0 1 220,8 V122 A8,8 0 0 1 212,130 H8 A8,8 0 0 1 0,122 V8 A8,8 0 0 1 8,0 Z" />
+        <path fill="#1B6B3A" d="M3,0 H217 A3,3 0 0 1 220,3 V3 A3,3 0 0 1 217,6 H3 A3,3 0 0 1 0,3 V3 A3,3 0 0 1 3,0 Z" />
+        <circle cx="30" cy="45" r="18" fill="#1B6B3A" />
+        <text x="30" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">04</text>
+        <text x="60" y="40" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">中英文摘要</text>
+        <text x="14" y="75" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">中文摘要 + 关键词</text>
+        <text x="14" y="95" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">英文摘要 + Keywords</text>
+        <text x="14" y="118" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">罗马数字页码</text>
+    </g>
+
+    
+    <g transform="translate(1020, 115)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H212 A8,8 0 0 1 220,8 V122 A8,8 0 0 1 212,130 H8 A8,8 0 0 1 0,122 V8 A8,8 0 0 1 8,0 Z" />
+        <path fill="#1B6B3A" d="M3,0 H217 A3,3 0 0 1 220,3 V3 A3,3 0 0 1 217,6 H3 A3,3 0 0 1 0,3 V3 A3,3 0 0 1 3,0 Z" />
+        <circle cx="30" cy="45" r="18" fill="#1B6B3A" />
+        <text x="30" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">05</text>
+        <text x="60" y="40" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">目录</text>
+        <text x="14" y="75" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">各章节及页码</text>
+        <text x="14" y="95" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">一级标题加粗</text>
+        <text x="14" y="118" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">不编页码</text>
+    </g>
+
+    
+
+    
+    <g transform="translate(60, 285)">
+        <path fill="#1B6B3A" d="M8,0 H212 A8,8 0 0 1 220,8 V122 A8,8 0 0 1 212,130 H8 A8,8 0 0 1 0,122 V8 A8,8 0 0 1 8,0 Z" />
+        <circle cx="30" cy="45" r="18" fill="#FFFFFF" fill-opacity="0.25" />
+        <text x="30" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">06</text>
+        <text x="60" y="40" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">正文</text>
+        <text x="14" y="75" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#C8E6D4">引言（绪论）</text>
+        <text x="14" y="95" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#C8E6D4">各章研究内容</text>
+        <text x="14" y="115" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#C8E6D4">结论</text>
+    </g>
+
+    
+    <g transform="translate(300, 285)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H212 A8,8 0 0 1 220,8 V122 A8,8 0 0 1 212,130 H8 A8,8 0 0 1 0,122 V8 A8,8 0 0 1 8,0 Z" />
+        <path fill="#2E8A50" d="M3,0 H217 A3,3 0 0 1 220,3 V3 A3,3 0 0 1 217,6 H3 A3,3 0 0 1 0,3 V3 A3,3 0 0 1 3,0 Z" />
+        <circle cx="30" cy="45" r="18" fill="#2E8A50" />
+        <text x="30" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">07</text>
+        <text x="60" y="40" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">参考文献</text>
+        <text x="14" y="75" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">顺序编码制</text>
+        <text x="14" y="95" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">另起一页</text>
+        <text x="14" y="118" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">博士 ≥80 篇</text>
+    </g>
+
+    
+    <g transform="translate(540, 285)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H212 A8,8 0 0 1 220,8 V122 A8,8 0 0 1 212,130 H8 A8,8 0 0 1 0,122 V8 A8,8 0 0 1 8,0 Z" />
+        <path fill="#718096" d="M3,0 H217 A3,3 0 0 1 220,3 V3 A3,3 0 0 1 217,6 H3 A3,3 0 0 1 0,3 V3 A3,3 0 0 1 3,0 Z" />
+        <circle cx="30" cy="45" r="18" fill="#718096" />
+        <text x="30" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">08</text>
+        <text x="60" y="40" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">附录（如有）</text>
+        <text x="14" y="75" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">公式推导、实验数据</text>
+        <text x="14" y="95" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">程序、补充材料</text>
+        <text x="14" y="118" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">附录 A, B, C...</text>
+    </g>
+
+    
+    <g transform="translate(780, 285)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H212 A8,8 0 0 1 220,8 V122 A8,8 0 0 1 212,130 H8 A8,8 0 0 1 0,122 V8 A8,8 0 0 1 8,0 Z" />
+        <path fill="#D4A017" d="M3,0 H217 A3,3 0 0 1 220,3 V3 A3,3 0 0 1 217,6 H3 A3,3 0 0 1 0,3 V3 A3,3 0 0 1 3,0 Z" />
+        <circle cx="30" cy="45" r="18" fill="#D4A017" />
+        <text x="30" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">09</text>
+        <text x="60" y="40" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">攻读期间发表论著</text>
+        <text x="14" y="75" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">博士：必须</text>
+        <text x="14" y="95" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">硕士：视情况</text>
+        <text x="14" y="118" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">含学术论文等</text>
+    </g>
+
+    
+    <g transform="translate(1020, 285)">
+        <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" d="M8,0 H212 A8,8 0 0 1 220,8 V122 A8,8 0 0 1 212,130 H8 A8,8 0 0 1 0,122 V8 A8,8 0 0 1 8,0 Z" />
+        <path fill="#1B6B3A" d="M3,0 H217 A3,3 0 0 1 220,3 V3 A3,3 0 0 1 217,6 H3 A3,3 0 0 1 0,3 V3 A3,3 0 0 1 3,0 Z" />
+        <circle cx="30" cy="45" r="18" fill="#1B6B3A" />
+        <text x="30" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">10</text>
+        <text x="60" y="40" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">致谢</text>
+        <text x="14" y="75" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">感谢导师及合作者</text>
+        <text x="14" y="95" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">感谢资助单位</text>
+        <text x="14" y="118" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">位于参考文献之后</text>
+    </g>
+
+    
+    <path fill="#EBF5EF" stroke="#1B6B3A" stroke-width="1" stroke-dasharray="4,2" d="M68,455 H1212 A8,8 0 0 1 1220,463 V507 A8,8 0 0 1 1212,515 H68 A8,8 0 0 1 60,507 V463 A8,8 0 0 1 68,455 Z" />
+    <text x="90" y="481" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" font-weight="bold" fill="#1B6B3A">页码规则：</text>
+    <text x="210" y="481" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">封面 &amp; 目录 — 不编页码</text>
+    <text x="490" y="481" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">中英文摘要 — 罗马数字（i, ii, iii...）</text>
+    <text x="900" y="481" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">正文开始 — 阿拉伯数字（1, 2, 3...）</text>
+
+    
+    <rect x="60" y="560" width="1160" height="1" fill="#E2E8F0" />
+    <text x="100" y="580" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">华中师范大学研究生学位论文撰写格式标准</text>
+    <text x="640" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#A0AEC0">3 / 11</text>
+</svg>

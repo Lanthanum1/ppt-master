@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+    <rect width="1280" height="720" fill="#F7F9FC" />
+    <rect x="0" y="0" width="1280" height="4" fill="#1B6B3A" />
+
+    <!-- 标题 -->
+    <text x="640" y="54" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="32" font-weight="bold" fill="#1B6B3A">摘要与关键词规范</text>
+    <text x="640" y="80" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" fill="#718096">中文摘要 vs 英文摘要 · 字体、字号、行距全对比</text>
+
+    <!-- 中文摘要列 -->
+    <rect x="60" y="105" width="560" height="490" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+    <rect x="60" y="105" width="560" height="8" rx="5" fill="#1B6B3A" />
+
+    <text x="340" y="145" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="bold" fill="#1B6B3A">中文摘要</text>
+
+    <!-- 标题格式 -->
+    <rect x="90" y="165" width="500" height="56" rx="6" fill="#EBF5EF" />
+    <text x="115" y="189" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#1B6B3A">标题格式</text>
+    <text x="115" y="210" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">"摘要" · 三号黑体加粗 · 居中 · 中间空两格</text>
+
+    <!-- 正文字体 -->
+    <rect x="90" y="235" width="500" height="70" rx="6" fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" />
+    <text x="115" y="258" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#2D3748">正文字体</text>
+    <rect x="115" y="267" width="200" height="28" rx="4" fill="#EBF5EF" />
+    <text x="215" y="286" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#1B6B3A">硕士：小四号宋体</text>
+    <rect x="330" y="267" width="200" height="28" rx="4" fill="#FEF9E8" />
+    <text x="430" y="286" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#D4A017">博士：五号宋体</text>
+
+    <!-- 行距 -->
+    <rect x="90" y="320" width="500" height="70" rx="6" fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" />
+    <text x="115" y="343" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#2D3748">行距设置</text>
+    <rect x="115" y="352" width="200" height="28" rx="4" fill="#EBF5EF" />
+    <text x="215" y="371" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#1B6B3A">硕士：多倍行距 1.25</text>
+    <rect x="330" y="352" width="200" height="28" rx="4" fill="#FEF9E8" />
+    <text x="430" y="371" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#D4A017">博士：固定值 19 磅</text>
+
+    <!-- 段落格式 -->
+    <rect x="90" y="405" width="500" height="56" rx="6" fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" />
+    <text x="115" y="428" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#2D3748">段落格式</text>
+    <text x="115" y="450" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">首行缩进两字符 · 段首不留空行</text>
+
+    <!-- 关键词 -->
+    <rect x="90" y="476" width="500" height="56" rx="6" fill="#FEF9E8" stroke="#FED7A0" stroke-width="1" />
+    <text x="115" y="499" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#D4A017">关键词</text>
+    <text x="115" y="521" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">"关键词"三字加粗 · 3-8个 · 分号间隔</text>
+
+    <!-- 页码 -->
+    <rect x="90" y="547" width="500" height="36" rx="6" fill="#F0FFF4" />
+    <text x="340" y="570" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#2E8A50">页码：罗马数字 i, ii, iii...</text>
+
+    <!-- 英文摘要列 -->
+    <rect x="660" y="105" width="560" height="490" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+    <rect x="660" y="105" width="560" height="8" rx="5" fill="#2E8A50" />
+
+    <text x="940" y="145" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="bold" fill="#2E8A50">英文摘要</text>
+
+    <!-- 标题格式 -->
+    <rect x="690" y="165" width="500" height="56" rx="6" fill="#EBF5EF" />
+    <text x="715" y="189" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#1B6B3A">标题格式</text>
+    <text x="715" y="210" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">"Abstract" · 三号 Times New Roman · 加粗居中</text>
+
+    <!-- 正文字体 -->
+    <rect x="690" y="235" width="500" height="70" rx="6" fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" />
+    <text x="715" y="258" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#2D3748">正文字体</text>
+    <rect x="715" y="267" width="210" height="28" rx="4" fill="#EBF5EF" />
+    <text x="820" y="286" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#1B6B3A">硕士：小四号 TNR</text>
+    <rect x="940" y="267" width="200" height="28" rx="4" fill="#FEF9E8" />
+    <text x="1040" y="286" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#D4A017">博士：五号 TNR</text>
+
+    <!-- 行距 -->
+    <rect x="690" y="320" width="500" height="70" rx="6" fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" />
+    <text x="715" y="343" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#2D3748">行距设置</text>
+    <rect x="715" y="352" width="210" height="28" rx="4" fill="#EBF5EF" />
+    <text x="820" y="371" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#1B6B3A">硕士：多倍行距 1.25</text>
+    <rect x="940" y="352" width="200" height="28" rx="4" fill="#FEF9E8" />
+    <text x="1040" y="371" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#D4A017">博士：固定值 19 磅</text>
+
+    <!-- 段落格式 -->
+    <rect x="690" y="405" width="500" height="56" rx="6" fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" />
+    <text x="715" y="428" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#2D3748">段落格式</text>
+    <text x="715" y="450" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">首行缩进两字符 · 段首不留空行</text>
+
+    <!-- Keywords -->
+    <rect x="690" y="476" width="500" height="56" rx="6" fill="#FEF9E8" stroke="#FED7A0" stroke-width="1" />
+    <text x="715" y="499" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#D4A017">Keywords</text>
+    <text x="715" y="521" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">"Keywords"加粗 · 字号同正文 · 分号间隔</text>
+
+    <!-- 非中文论文说明 -->
+    <rect x="690" y="547" width="500" height="36" rx="6" fill="#FFF5F5" stroke="#FEB2B2" stroke-width="1" />
+    <text x="940" y="570" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#E53E3E">非中文论文须附中文摘要：博士 ≥8000 字 / 硕士 ≥3000 字</text>
+
+    <!-- 底部 -->
+    <rect x="60" y="640" width="1160" height="1" fill="#E2E8F0" />
+    <text x="100" y="660" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">华中师范大学研究生学位论文撰写格式标准</text>
+    <text x="640" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#A0AEC0">5 / 11</text>
+</svg>

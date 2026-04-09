@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+    <rect width="1280" height="720" fill="#F7F9FC" />
+    <rect x="0" y="0" width="1280" height="4" fill="#1B6B3A" />
+
+    <!-- 页面标题 -->
+    <text x="640" y="54" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="32" font-weight="bold" fill="#1B6B3A">前置部分详解</text>
+    <text x="640" y="80" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" fill="#718096">论文正文之前的各项必备内容及格式要求</text>
+
+    <!-- 卡片网格 2×3 -->
+    <!-- 卡片宽度 360, 间距 40, 起始 x=60 -->
+
+    <!-- 01 封面 -->
+    <g transform="translate(60, 110)">
+        <rect x="0" y="0" width="360" height="140" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+        <rect x="0" y="0" width="6" height="140" rx="3" fill="#1B6B3A" />
+        <circle cx="48" cy="38" r="22" fill="#EBF5EF" />
+        <text x="48" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1B6B3A">01</text>
+        <text x="82" y="36" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">封面</text>
+        <text x="82" y="56" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#718096">单面印刷</text>
+        <text x="22" y="82" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 学校全称 / 论文题目</text>
+        <text x="22" y="104" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 作者姓名 / 指导教师</text>
+        <text x="22" y="126" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 申请学位级别 / 提交日期</text>
+    </g>
+
+    <!-- 02 中文扉页 -->
+    <g transform="translate(460, 110)">
+        <rect x="0" y="0" width="360" height="140" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+        <rect x="0" y="0" width="6" height="140" rx="3" fill="#1B6B3A" />
+        <circle cx="48" cy="38" r="22" fill="#EBF5EF" />
+        <text x="48" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1B6B3A">02</text>
+        <text x="82" y="36" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">中文扉页</text>
+        <text x="82" y="56" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#718096">双面印刷</text>
+        <text x="22" y="82" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 内容与封面基本一致</text>
+        <text x="22" y="104" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 中文题名页</text>
+        <text x="22" y="126" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 详细学术信息展示</text>
+    </g>
+
+    <!-- 03 英文扉页 -->
+    <g transform="translate(860, 110)">
+        <rect x="0" y="0" width="360" height="140" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+        <rect x="0" y="0" width="6" height="140" rx="3" fill="#1B6B3A" />
+        <circle cx="48" cy="38" r="22" fill="#EBF5EF" />
+        <text x="48" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1B6B3A">03</text>
+        <text x="82" y="36" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">英文扉页</text>
+        <text x="82" y="56" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#718096">双面印刷</text>
+        <text x="22" y="82" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 英文版题名页</text>
+        <text x="22" y="104" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 标题 Times New Roman</text>
+        <text x="22" y="126" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 与中文扉页对应</text>
+    </g>
+
+    <!-- 04 原创性声明 -->
+    <g transform="translate(60, 290)">
+        <rect x="0" y="0" width="360" height="140" rx="8" fill="#FFFFFF" stroke="#FED7A0" stroke-width="1.5" />
+        <rect x="0" y="0" width="6" height="140" rx="3" fill="#D4A017" />
+        <circle cx="48" cy="38" r="22" fill="#FEF3C7" />
+        <text x="48" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#D4A017">04</text>
+        <text x="82" y="36" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" font-weight="bold" fill="#2D3748">原创性声明 &amp; 授权书</text>
+        <text x="82" y="56" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#E53E3E">单面印刷 · 必须亲笔签名</text>
+        <text x="22" y="82" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 作者亲笔签名</text>
+        <text x="22" y="104" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 指导教师亲笔签名</text>
+        <text x="22" y="126" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 学校统一格式</text>
+    </g>
+
+    <!-- 05 中文摘要 -->
+    <g transform="translate(460, 290)">
+        <rect x="0" y="0" width="360" height="140" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+        <rect x="0" y="0" width="6" height="140" rx="3" fill="#2E8A50" />
+        <circle cx="48" cy="38" r="22" fill="#EBF5EF" />
+        <text x="48" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2E8A50">05</text>
+        <text x="82" y="36" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">中文摘要</text>
+        <text x="82" y="56" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#718096">页码：罗马数字</text>
+        <text x="22" y="82" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· "摘要"三号黑体加粗居中</text>
+        <text x="22" y="104" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 硕士小四号 / 博士五号宋体</text>
+        <text x="22" y="126" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 关键词 3-8 个，分号间隔</text>
+    </g>
+
+    <!-- 06 英文摘要 -->
+    <g transform="translate(860, 290)">
+        <rect x="0" y="0" width="360" height="140" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+        <rect x="0" y="0" width="6" height="140" rx="3" fill="#2E8A50" />
+        <circle cx="48" cy="38" r="22" fill="#EBF5EF" />
+        <text x="48" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2E8A50">06</text>
+        <text x="82" y="36" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="bold" fill="#2D3748">英文摘要</text>
+        <text x="82" y="56" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#718096">页码：罗马数字</text>
+        <text x="22" y="82" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· "Abstract"三号 TNR 加粗居中</text>
+        <text x="22" y="104" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 硕士小四号 / 博士五号 TNR</text>
+        <text x="22" y="126" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· Keywords 同正文字号</text>
+    </g>
+
+    <!-- 提示说明 -->
+    <rect x="60" y="470" width="1160" height="55" rx="8" fill="#EBF5EF" />
+    <text x="90" y="498" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#1B6B3A">印刷规则：</text>
+    <text x="210" y="498" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">封面 &amp; 原创性声明 — 单面印刷</text>
+    <text x="630" y="498" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#2D3748">中英文扉页、摘要及后续 — 双面印刷（硕士可单面）</text>
+
+    <!-- 底部 -->
+    <rect x="60" y="568" width="1160" height="1" fill="#E2E8F0" />
+    <text x="100" y="588" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">华中师范大学研究生学位论文撰写格式标准</text>
+    <text x="640" y="588" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#A0AEC0">4 / 11</text>
+</svg>

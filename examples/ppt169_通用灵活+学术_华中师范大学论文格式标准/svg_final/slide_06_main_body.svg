@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+    <rect width="1280" height="720" fill="#F7F9FC" />
+    <rect x="0" y="0" width="1280" height="4" fill="#1B6B3A" />
+
+    
+    <text x="640" y="54" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="32" font-weight="bold" fill="#1B6B3A">正文撰写规范</text>
+    <text x="640" y="80" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" fill="#718096">标题层级结构与字体格式要求</text>
+
+    
+
+    
+    <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" d="M70,105 H410 A10,10 0 0 1 420,115 V475 A10,10 0 0 1 410,485 H70 A10,10 0 0 1 60,475 V115 A10,10 0 0 1 70,105 Z" />
+    <path fill="#1B6B3A" d="M65,105 H415 A5,4 0 0 1 420,109 V109 A5,4 0 0 1 415,113 H65 A5,4 0 0 1 60,109 V109 A5,4 0 0 1 65,105 Z" />
+    <text x="240" y="143" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="bold" fill="#1B6B3A">一级标题</text>
+
+    <path fill="#EBF5EF" d="M96,158 H384 A6,6 0 0 1 390,164 V196 A6,6 0 0 1 384,202 H96 A6,6 0 0 1 90,196 V164 A6,6 0 0 1 96,158 Z" />
+    <text x="240" y="175" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#1B6B3A">示例：第一章  绪论</text>
+    <text x="240" y="193" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">（阿拉伯数字编号）</text>
+
+    <text x="90" y="226" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">字体要求</text>
+    <text x="90" y="250" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 三号黑体加粗</text>
+    <text x="90" y="272" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 居中排列</text>
+
+    <text x="90" y="305" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">位置要求</text>
+    <text x="90" y="329" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#E53E3E">· 另起一页开始</text>
+    <text x="90" y="351" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 章题之前空一行</text>
+
+    <text x="90" y="384" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">编号格式</text>
+    <text x="90" y="408" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 第一章 / 第二章...</text>
+    <text x="90" y="428" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 或 1. / 2. / 3. 格式</text>
+    <text x="90" y="460" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#A0AEC0">对应 Word 标题 1 样式</text>
+
+    
+    <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" d="M470,105 H810 A10,10 0 0 1 820,115 V475 A10,10 0 0 1 810,485 H470 A10,10 0 0 1 460,475 V115 A10,10 0 0 1 470,105 Z" />
+    <path fill="#2E8A50" d="M465,105 H815 A5,4 0 0 1 820,109 V109 A5,4 0 0 1 815,113 H465 A5,4 0 0 1 460,109 V109 A5,4 0 0 1 465,105 Z" />
+    <text x="640" y="143" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="bold" fill="#2E8A50">二级标题</text>
+
+    <path fill="#EBF5EF" d="M496,158 H784 A6,6 0 0 1 790,164 V196 A6,6 0 0 1 784,202 H496 A6,6 0 0 1 490,196 V164 A6,6 0 0 1 496,158 Z" />
+    <text x="640" y="175" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#1B6B3A">示例：1.1  研究背景</text>
+    <text x="640" y="193" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">（数字+点号格式）</text>
+
+    <text x="490" y="226" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">字体要求</text>
+    <text x="490" y="250" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 四号黑体加粗</text>
+    <text x="490" y="272" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 首行缩进两字符</text>
+
+    <text x="490" y="305" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">位置要求</text>
+    <text x="490" y="329" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 不单独另起一页</text>
+    <text x="490" y="351" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 与所属一级章连续</text>
+
+    <text x="490" y="384" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">编号格式</text>
+    <text x="490" y="408" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 1.1 / 1.2 / 2.1...</text>
+    <text x="490" y="428" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 阿拉伯数字编号</text>
+    <text x="490" y="460" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#A0AEC0">对应 Word 标题 2 样式</text>
+
+    
+    <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" d="M870,105 H1210 A10,10 0 0 1 1220,115 V475 A10,10 0 0 1 1210,485 H870 A10,10 0 0 1 860,475 V115 A10,10 0 0 1 870,105 Z" />
+    <path fill="#D4A017" d="M865,105 H1215 A5,4 0 0 1 1220,109 V109 A5,4 0 0 1 1215,113 H865 A5,4 0 0 1 860,109 V109 A5,4 0 0 1 865,105 Z" />
+    <text x="1040" y="143" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="bold" fill="#D4A017">三级标题 &amp; 正文</text>
+
+    <path fill="#FEF9E8" d="M896,158 H1184 A6,6 0 0 1 1190,164 V196 A6,6 0 0 1 1184,202 H896 A6,6 0 0 1 890,196 V164 A6,6 0 0 1 896,158 Z" />
+    <text x="1040" y="175" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#D4A017">示例：1.1.1  问题提出</text>
+    <text x="1040" y="193" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#4A5568">（三级数字编号）</text>
+
+    <text x="890" y="226" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">三级标题字体</text>
+    <text x="890" y="250" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 小四号黑体加粗</text>
+    <text x="890" y="272" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 首行缩进两字符</text>
+
+    <text x="890" y="305" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" font-weight="bold" fill="#2D3748">正文字体</text>
+    <path fill="#EBF5EF" d="M894,316 H1026 A4,4 0 0 1 1030,320 V338 A4,4 0 0 1 1026,342 H894 A4,4 0 0 1 890,338 V320 A4,4 0 0 1 894,316 Z" />
+    <text x="960" y="334" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#1B6B3A">硕士：小四宋体</text>
+    <path fill="#FEF9E8" d="M1054,316 H1186 A4,4 0 0 1 1190,320 V338 A4,4 0 0 1 1186,342 H1054 A4,4 0 0 1 1050,338 V320 A4,4 0 0 1 1054,316 Z" />
+    <text x="1120" y="334" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#D4A017">博士：五号宋体</text>
+
+    <text x="890" y="370" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 字母/数字：Times New Roman</text>
+    <text x="890" y="392" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 首行缩进两字符</text>
+    <text x="890" y="414" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 段首不留空行</text>
+    <text x="890" y="450" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#A0AEC0">对应 Word 标题 3 样式</text>
+
+    
+    <path fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" d="M68,505 H1212 A8,8 0 0 1 1220,513 V557 A8,8 0 0 1 1212,565 H68 A8,8 0 0 1 60,557 V513 A8,8 0 0 1 68,505 Z" />
+    <text x="90" y="530" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#2D3748">注释规则：</text>
+    <text x="200" y="530" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">采用脚注形式</text>
+    <text x="340" y="530" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 每页重新编号 ①②③</text>
+    <text x="600" y="530" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 注释字号：小五号宋体</text>
+    <text x="90" y="554" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">一般不超过三级标题，层次过多时改用列表</text>
+
+    
+    <rect x="60" y="612" width="1160" height="1" fill="#E2E8F0" />
+    <text x="100" y="632" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">华中师范大学研究生学位论文撰写格式标准</text>
+    <text x="640" y="632" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#A0AEC0">6 / 11</text>
+</svg>

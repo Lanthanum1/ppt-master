@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+    <rect width="1280" height="720" fill="#F7F9FC" />
+    <rect x="0" y="0" width="1280" height="4" fill="#1B6B3A" />
+
+    
+    <text x="640" y="54" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="32" font-weight="bold" fill="#1B6B3A">附录与致谢</text>
+    <text x="640" y="80" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" fill="#718096">附录内容 · 编号规则 · 致谢撰写要求</text>
+
+    
+    <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" d="M70,105 H620 A10,10 0 0 1 630,115 V605 A10,10 0 0 1 620,615 H70 A10,10 0 0 1 60,605 V115 A10,10 0 0 1 70,105 Z" />
+    <path fill="#1B6B3A" d="M65,105 H625 A5,4 0 0 1 630,109 V109 A5,4 0 0 1 625,113 H65 A5,4 0 0 1 60,109 V109 A5,4 0 0 1 65,105 Z" />
+
+    <text x="345" y="143" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="bold" fill="#1B6B3A">附录（Appendix）</text>
+
+    
+    <text x="90" y="175" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" font-weight="bold" fill="#2D3748">可收录内容</text>
+
+    <path fill="#EBF5EF" d="M96,188 H594 A6,6 0 0 1 600,194 V220 A6,6 0 0 1 594,226 H96 A6,6 0 0 1 90,220 V194 A6,6 0 0 1 96,188 Z" />
+    <text x="110" y="213" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#1B6B3A">① 公式推导过程（正文中省略部分）</text>
+
+    <path fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" d="M96,232 H594 A6,6 0 0 1 600,238 V264 A6,6 0 0 1 594,270 H96 A6,6 0 0 1 90,264 V238 A6,6 0 0 1 96,232 Z" />
+    <text x="110" y="257" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">② 实验数据原始记录及详细统计</text>
+
+    <path fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" d="M96,276 H594 A6,6 0 0 1 600,282 V308 A6,6 0 0 1 594,314 H96 A6,6 0 0 1 90,308 V282 A6,6 0 0 1 96,276 Z" />
+    <text x="110" y="301" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">③ 计算机程序 / 代码</text>
+
+    <path fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" d="M96,320 H594 A6,6 0 0 1 600,326 V352 A6,6 0 0 1 594,358 H96 A6,6 0 0 1 90,352 V326 A6,6 0 0 1 96,320 Z" />
+    <text x="110" y="345" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">④ 攻读学位期间发表的学术论文</text>
+
+    <path fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" d="M96,364 H594 A6,6 0 0 1 600,370 V396 A6,6 0 0 1 594,402 H96 A6,6 0 0 1 90,396 V370 A6,6 0 0 1 96,364 Z" />
+    <text x="110" y="389" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">⑤ 阅读型参考文献</text>
+
+    <path fill="#FEF9E8" stroke="#FED7A0" stroke-width="1" d="M96,408 H594 A6,6 0 0 1 600,414 V440 A6,6 0 0 1 594,446 H96 A6,6 0 0 1 90,440 V414 A6,6 0 0 1 96,408 Z" />
+    <text x="110" y="433" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#D4A017">⑥ 博士必须：攻读期发表论著（正式发表）</text>
+
+    
+    <text x="90" y="470" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" font-weight="bold" fill="#2D3748">编号规则</text>
+    <path fill="#EBF5EF" d="M96,480 H594 A6,6 0 0 1 600,486 V534 A6,6 0 0 1 594,540 H96 A6,6 0 0 1 90,534 V486 A6,6 0 0 1 96,480 Z" />
+    <text x="110" y="503" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#1B6B3A">附录 A、附录 B、附录 C...</text>
+    <text x="110" y="525" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">附录内部图表编号：图 A.1、表 B.2</text>
+
+    
+    <path fill="#FFF5F5" stroke="#FEB2B2" stroke-width="1" d="M96,550 H594 A6,6 0 0 1 600,556 V596 A6,6 0 0 1 594,602 H96 A6,6 0 0 1 90,596 V556 A6,6 0 0 1 96,550 Z" />
+    <text x="110" y="572" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#E53E3E">非中文撰写须附详细中文摘要（作为附录）</text>
+    <text x="110" y="592" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">博士 ≥8000 字 / 硕士 ≥3000 字</text>
+
+    
+    <path fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" d="M660,105 H1210 A10,10 0 0 1 1220,115 V605 A10,10 0 0 1 1210,615 H660 A10,10 0 0 1 650,605 V115 A10,10 0 0 1 660,105 Z" />
+    <path fill="#D4A017" d="M655,105 H1215 A5,4 0 0 1 1220,109 V109 A5,4 0 0 1 1215,113 H655 A5,4 0 0 1 650,109 V109 A5,4 0 0 1 655,105 Z" />
+
+    <text x="935" y="143" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="bold" fill="#D4A017">致谢（Acknowledgements）</text>
+
+    
+    <path fill="#FEF9E8" stroke="#FED7A0" stroke-width="1" d="M686,165 H1184 A6,6 0 0 1 1190,171 V215 A6,6 0 0 1 1184,221 H686 A6,6 0 0 1 680,215 V171 A6,6 0 0 1 686,165 Z" />
+    <text x="700" y="188" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" font-weight="bold" fill="#D4A017">位置</text>
+    <text x="700" y="210" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">位于参考文献和附录之后，论文末尾</text>
+
+    
+    <text x="680" y="248" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" font-weight="bold" fill="#2D3748">致谢对象（参考）</text>
+
+    <path fill="#EBF5EF" d="M686,260 H1184 A6,6 0 0 1 1190,266 V292 A6,6 0 0 1 1184,298 H686 A6,6 0 0 1 680,292 V266 A6,6 0 0 1 686,260 Z" />
+    <text x="700" y="285" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#1B6B3A">指导教师（最重要）</text>
+
+    <path fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" d="M686,304 H1184 A6,6 0 0 1 1190,310 V336 A6,6 0 0 1 1184,342 H686 A6,6 0 0 1 680,336 V310 A6,6 0 0 1 686,304 Z" />
+    <text x="700" y="329" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">论文评阅人与答辩委员会成员</text>
+
+    <path fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" d="M686,348 H1184 A6,6 0 0 1 1190,354 V380 A6,6 0 0 1 1184,386 H686 A6,6 0 0 1 680,380 V354 A6,6 0 0 1 686,348 Z" />
+    <text x="700" y="373" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">科研资助单位及基金项目</text>
+
+    <path fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" d="M686,392 H1184 A6,6 0 0 1 1190,398 V424 A6,6 0 0 1 1184,430 H686 A6,6 0 0 1 680,424 V398 A6,6 0 0 1 686,392 Z" />
+    <text x="700" y="417" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">提供帮助的同学、合作者、机构</text>
+
+    <path fill="#F8FAFB" stroke="#E2E8F0" stroke-width="1" d="M686,436 H1184 A6,6 0 0 1 1190,442 V468 A6,6 0 0 1 1184,474 H686 A6,6 0 0 1 680,468 V442 A6,6 0 0 1 686,436 Z" />
+    <text x="700" y="461" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15" fill="#4A5568">家人的支持与鼓励</text>
+
+    
+    <text x="680" y="500" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16" font-weight="bold" fill="#2D3748">格式要求</text>
+    <path fill="#FEF9E8" stroke="#FED7A0" stroke-width="1" d="M686,510 H1184 A6,6 0 0 1 1190,516 V596 A6,6 0 0 1 1184,602 H686 A6,6 0 0 1 680,596 V516 A6,6 0 0 1 686,510 Z" />
+    <text x="700" y="533" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 标题"致谢"：三号黑体加粗居中</text>
+    <text x="700" y="555" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 正文字体与正文章节相同</text>
+    <text x="700" y="577" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#4A5568">· 另起一页，首行缩进两字符</text>
+    <text x="700" y="594" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13" fill="#A0AEC0">· 语言真诚，避免过度夸张</text>
+
+    
+    <rect x="60" y="660" width="1160" height="1" fill="#E2E8F0" />
+    <text x="100" y="678" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" fill="#A0AEC0">华中师范大学研究生学位论文撰写格式标准</text>
+    <text x="640" y="678" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#A0AEC0">9 / 11</text>
+</svg>
