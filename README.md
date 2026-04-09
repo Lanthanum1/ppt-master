@@ -131,11 +131,5 @@ Run `python3 skills/ppt-master/scripts/image_gen.py --list-backends` to see tier
 
 [MIT](LICENSE)
 
-## Acknowledgments
 
-[SVG Repo](https://www.svgrepo.com/) · [Tabler Icons](https://github.com/tabler/tabler-icons) · [Robin Williams](https://en.wikipedia.org/wiki/Robin_Williams_(author)) (CRAP principles) · McKinsey, BCG, Bain
-
-## Contact
-
-[GitHub Issues](https://github.com/Lanthanum1/ppt-master/issues) · [@Lanthanum1](https://github.com/Lanthanum1)
 
